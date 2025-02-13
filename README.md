@@ -8,4 +8,11 @@
      4) sum of the array element.
      5) count the total even number from the array.
 
+ 2) 2D array:
+    1) print the matrix
+    2) print Diagonal elements
+    3) sum of matrices.
+    4) search in matrix.
+       
+
 
